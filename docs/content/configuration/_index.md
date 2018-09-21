@@ -7,4 +7,4 @@ pre: "<i class=\"fa fa-wrench\" aria-hidden=\"true\"></i> "
 
 # Configuration
 
-Configurating your Flogo apps with environment variables and stuff :)
+Configuring your Flogo apps with environment variables and stuff :)
